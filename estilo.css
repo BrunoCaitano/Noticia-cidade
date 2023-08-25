@@ -5,7 +5,7 @@
 }
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: url(/Projeto-Web/Projeto-Noticias-Cidade/imagens/fundo.png) repeat-x;
+    background: url(imagens/fundo.png) repeat-x;
 }
 
 #container{
@@ -14,13 +14,13 @@ body{
 }
 #topo{
     height: 150px;
-    background: url(/Projeto-Web/Projeto-Noticias-Cidade/imagens/detalhe-topo.png) no-repeat right top;
+    background: url(imagens/detalhe-topo.png) no-repeat right top;
     padding-top: 25px;
 }
 .logo{
     width: 152px;
     height: 66px;
-    background: url(/Projeto-Web/Projeto-Notícias-Cidade/imagens/logo.png);
+    background: url(imagens/logo.png);
     text-indent: -3000px;
 }
 ul{
@@ -43,7 +43,7 @@ ul{
     line-height: 2.1em;
     text-decoration: none;
     color: #fff;
-    background: url(/Projeto-Web/Projeto-Notícias-Cidade/imagens/divisor.png) no-repeat left center;
+    background: url(imagens/divisor.png) no-repeat left center;
 }
 #topo ul .primeiro a{
     background: none;
@@ -100,7 +100,7 @@ body.fotos #navegacao a#fotos
 
 .caixa{
     background: #f3f3f3;
-    background: url(./imagens/fundo-caixa.png);
+    background: url(imagens/fundo-caixa.png);
     margin: 10px 0;
     padding: 5px;
 }
@@ -130,7 +130,7 @@ h2{
 }
 #lateral ul a:hover{
     color: #a1a1a1;
-    background: #f9f9f9 url(./imagens/marcador.png) no-repeat left center;
+    background: #f9f9f9 url(imagens/marcador.png) no-repeat left center;
     padding-left: 20px;
 }
 label{
